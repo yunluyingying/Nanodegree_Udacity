@@ -27,7 +27,7 @@ mccabe==0.6.1
 psycopg2==2.8.4
 psycopg2-binary==2.8.2
 ptyprocess==0.6.0
-py==1.8.0
+py==1.10.0
 pyasn1==0.4.7
 pycodestyle==2.5.0
 pycosat==0.6.3
